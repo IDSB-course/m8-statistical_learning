@@ -27,5 +27,6 @@ Codigo empleado en la teoría:
 
 
 # :open_file_folder:[solutions](https://github.com/IDSB-course/m8-statistical_learning/tree/master/solutions)
-Ejercicios resueltos de la guía práctica:
+Ejercicios resueltos de la guía práctica y práctica integradora resuelta:
 * solutions.R
+* ej_final_proj.r
